@@ -1,7 +1,7 @@
 # YOLOv5 Real-Time Object Detection in Unity Simulation
 This project creates a real-time bridge between a Unity 3D environment and YOLOv5 for object detection. It focuses on streaming simulation data through an optimized pipeline to test computer vision models in controlled virtual environments.
 
-https://github.com/user-attachments/assets/df3d77e2-fc1a-404b-a062-300310213092
+![Image](https://github.com/user-attachments/assets/86743ca9-721c-419d-a93c-4c47f71cde8b)
 
 ## System Architecture
 Data Source: A unity camera that moves orbitally around assets and captures various angles of assets to maximize detection diversity.
