@@ -29,7 +29,7 @@ Analysis: While using UDP the synchronization between the high-frequency game lo
 
 Challenge: Since the model uses pre-trained weights (COCO dataset), some of the simulation assets were misidentified (e.g., a dog identified as a horse, or a car labeled as a truck).
 
-Solution: To improve accuracy without retraining, I specifically selected high-fidelity 3D assets that closely match the visual features of the COCO dataset, achieving high confidence scores in standard lighting conditions.
+Solution: To improve accuracy without retraining, I specifically selected high-fidelity 3D assets that closely match the visual features of the COCO dataset, so that I achieve high confidence scores in standard lighting conditions.
 
 ## Project Structure
 CameraCapture.cs: Manages the FFmpeg process and raw data piping.
